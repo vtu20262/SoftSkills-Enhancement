@@ -163,28 +163,28 @@ The dashboard provides access to various sections of the app:
 
 To get started with your React project using Create React App, follow these steps:
 
-Getting Started with Create React App
+#Getting Started with Create React App
 This project was bootstrapped using Create React App.
 
-Available Scripts
+#Available Scripts
 In the project directory, you can run the following commands:
 
-npm start
+#npm start
 Runs the app in development mode.
 Open http://localhost:3000 to view it in your browser.
 The page will automatically reload if you make edits.
 You may also see any lint errors in the console.
-npm test
+#npm test
 Launches the test runner in interactive watch mode.
 See the section about running tests for more information.
-npm run build
+#npm run build
 Builds the app for production in the build folder.
 It correctly bundles React in production mode and optimizes the build for best performance.
 The build is minified, and the filenames include the hashes.
 Your app is ready to be deployed!
 For more on deployment, see the deployment section.
 
-npm run eject
+#npm run eject
 Warning: Ejecting is a one-way operation. Once you eject, you cannot go back!
 
 If you need full control over the build tool and configuration choices, you can eject. This will copy all configuration files and transitive dependencies (webpack, Babel, ESLint, etc.) into your project, allowing you to tweak them directly. Once ejected, you’re on your own.
